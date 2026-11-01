@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wish Ring</string>
+    <string name="pair_title">Pair an Index 01</string>
+    <string name="status_no_ring">No ring paired.</string>
+    <string name="status_paired">Ring %1$s</string>
+    <string name="status_service_off">Background sync is off.</string>
+    <string name="status_service_on">Listening for the ring.</string>
+    <string name="action_pair">Pair ring</string>
+    <string name="action_forget">Forget ring</string>
+    <string name="action_sync">Sync now</string>
+    <string name="action_export">Export all</string>
+    <string name="action_battery">Battery</string>
+    <string name="action_permissions">Permissions</string>
+    <string name="action_stop_service">Stop</string>
+    <string name="action_start_service">Start</string>
+    <string name="pair_instructions">Press the ring\'s button to wake it, then tap it in the list.</string>
+    <string name="pair_scanning">Scanning…</string>
+    <string name="pair_none">No ring found yet.</string>
+    <string name="pair_bonding">Pairing with %1$s…</string>
+    <string name="pair_done">Paired with %1$s.</string>
+    <string name="pair_failed">Pairing failed: %1$s</string>
+    <string name="pair_not_primary">This ring is in its %1$s image and cannot be paired.</string>
+    <string name="notification_channel_service">Background sync</string>
+    <string name="notification_channel_events">Ring events</string>
+    <string name="notification_title">Wish Ring</string>
+    <string name="notification_waiting">Waiting for the ring</string>
+    <string name="notification_syncing">Syncing with the ring…</string>
+    <string name="notification_pair_again">The ring needs pairing again</string>
+    <string name="notification_received">Received %1$d recording(s)</string>
+    <string name="empty_list">No recordings yet. Hold the ring\'s button to record one.</string>
+    <string name="delete_title">Delete recording?</string>
+    <string name="delete_message">%1$s will be removed from the phone.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="forget_title">Forget this ring?</string>
+    <string name="forget_message">Recordings stay on the phone. Remove the ring in Android\'s Bluetooth settings as well before pairing it again.</string>
+    <string name="export_done">Exported %1$d file(s).</string>
+    <string name="export_failed">Export failed: %1$s</string>
+    <string name="permissions_missing">Bluetooth permissions are required.</string>
+    <string name="battery_already">Battery optimisation is already off for this app.</string>
+</resources>
