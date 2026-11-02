@@ -110,3 +110,7 @@ six collections joined into one 9997 Hz WAV with the ring's own timestamp.
 The ring hung up itself after the system-input subscription, as the
 protocol description says. Not yet exercised: a recording made out of range
 and synced on a later button press, and long periods in the background.
+
+## License
+
+[MIT](LICENSE).
